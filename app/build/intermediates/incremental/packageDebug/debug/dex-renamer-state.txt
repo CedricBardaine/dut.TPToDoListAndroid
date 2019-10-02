@@ -1,0 +1,4 @@
+#Fri Mar 15 12:22:22 CET 2019
+base.0=/ubs/fukuisaurus/home.1/7/e1701697/todoCordova/todoCordova/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
